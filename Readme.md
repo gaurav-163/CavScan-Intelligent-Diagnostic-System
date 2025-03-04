@@ -33,3 +33,18 @@ To set up CavScan on your local machine, follow these steps:
    ```bash
    git clone https://github.com/yourusername/cavscan.git
    cd cavscan
+
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the application:
+   ```bash
+   python app.py
+
+## Usage
+
+Once the application is running, you can upload dental images for analysis. CavScan will process the images and provide structured reports detailing detected conditions and their severity.
+
+### Example
+To analyze an image, simply navigate to the upload section in the interface and select a dental image file. The system will return a report within moments.
