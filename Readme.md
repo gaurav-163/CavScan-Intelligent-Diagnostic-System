@@ -1,4 +1,4 @@
-# CavScan: Intelligent-Diagnostic-System
+# CavScan: Intelligent Diagnostic System
 
 CavScan is an AI-powered dental diagnostic system that automates the detection and reporting of common dental anomalies. By utilizing advanced machine learning techniques, CavScan aims to enhance diagnostic accuracy and efficiency, ultimately assisting clinicians in providing improved patient care.
 
