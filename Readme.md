@@ -48,3 +48,15 @@ Once the application is running, you can upload dental images for analysis. CavS
 
 ### Example
 To analyze an image, simply navigate to the upload section in the interface and select a dental image file. The system will return a report within moments.
+
+## Evaluation
+CavScan has been evaluated through experimental validation, demonstrating its efficiency, scalability, and real-time diagnostic capabilities. Results indicate significant improvements in accuracy compared to traditional methods.
+
+## Future Work
+Future developments will focus on:
+ * Enhancing model accuracy through further refinement of algorithms.
+ * Expanding the dataset to include a wider variety of dental conditions.
+ * Exploring additional features for improved user experience.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
